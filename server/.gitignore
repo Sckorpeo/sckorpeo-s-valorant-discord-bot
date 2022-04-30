@@ -1,0 +1,4 @@
+.env
+node_modules
+set-permissions.js
+.DS_Store
